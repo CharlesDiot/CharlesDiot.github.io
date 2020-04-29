@@ -47,7 +47,9 @@
   box-sizing: border-box;
 }
 
-.bg-primary background-color #990000 ;
+.bg-primary {
+     background-color: #990000 ;
+}
 
 html {
   font-family: sans-serif;
